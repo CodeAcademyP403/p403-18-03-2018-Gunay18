@@ -1,0 +1,19 @@
+@media only screen and (max-width: 991px) {
+    .bottomNav .container .row .col-sm-12{
+        display: flex;
+        justify-content: center;
+    }
+    .bottomNav .container .right{
+        display: none;
+    }
+    .categories .row .col-md-4{
+        margin-bottom: 20px;
+    }
+}
+@media only screen and (max-width: 600px){
+    .upperNav .container{
+        display: flex;
+        justify-content: center;
+    }
+    
+}
